@@ -1,5 +1,5 @@
 # Stiffness method using Python
-by: Nophi
+Author: Nophi
 
 
 This repository contains the python codes or script I used to demonstrate on how to perform stiffness method using python programming. The following scripts are presented:
